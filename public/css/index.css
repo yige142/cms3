@@ -1,3 +1,31 @@
-.test{
-    color:#ea1328;
+body{
+    margin:0;
+    padding:0;
+    font: 12px "Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
+}
+a{
+    color: #222222;
+    text-decoration: none;
+}
+.img{
+    width: 100%;
+    height:auto;
+}
+.head_top{
+    width: 100%;
+    height: 25px;
+    background-color: #f2f2f2;
+}
+.head_content_area{
+    width: 1200px;
+    margin: auto;
+    line-height: 25px;
+}
+.head_title_right{
+    float: right;
+    margin-right: 20px;
+}
+.head_logo{
+    width: 1200px;
+    margin: auto;
 }
