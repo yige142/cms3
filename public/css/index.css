@@ -29,3 +29,30 @@ a{
     width: 1200px;
     margin: auto;
 }
+.head_logo img{
+    margin-top: 3px;
+}
+.nav{
+    width: 1200px;
+    margin:auto;
+    height: 40px;
+    background-color: #3C86C5;
+    overflow: hidden;
+}
+.nav_title{
+    float: left;
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 10px;
+    margin-left: 16px;
+    /*background-color: #1b961b;*/
+}
+.nav_title a{
+    color: #ffffff;
+}
+.carousel{
+    width: 1200px;
+    height: 400px;
+    margin: auto;
+    background-color: #7c7c7c;
+}
